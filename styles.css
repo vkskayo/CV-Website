@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3,H4,p, li {
+    color: white;
+    font-family:sans-serif
+}
+
+h1, h2 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+.javascript {
+    color: yellow;
+}
+
+section {
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+
+.location {
+    color: rgb(243, 248, 178);
+}
+
+h2, h3 {
+    margin-bottom: 15px;
+}
+
+.cell {
+    margin-bottom: 15px;
+}
+
+.about-me {
+    height: 70%;
+    width: 100%;
+    border-left: 3px solid #81acf7;
+    padding: 0 10px;
+}
+
+.courses {
+    height: 20%;
+    width: 100%;
+    border-left: 3px solid #81acf7;
+    padding: 0 10px;
+
+}
+
+.name-position {
+    width: 90vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 3px solid #81acf7;
+    padding: 2rem 0;
+    min-width: 300px;
+    min-height: 120px;
+    
+    
+}
+
+.main-informations {
+    width: 90vw;
+    
+    display: flex;
+}
+
+.left-div {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.right-div {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contact {
+    width: 85%;
+    height: 33%;
+    border-bottom: 3px solid #81acf7;
+    padding-bottom: 15px;
+   
+    
+
+}
+
+.qualification {
+    width: 85%;
+    height: 33%;
+    border-bottom: 3px solid #81acf7;
+    padding-bottom: 15px;
+   
+    
+}
+
+.knowledge {
+    width: 85%;
+    height: 33%;
+   
+    
+}
+
+i {
+    margin-right: 5px;
+}
+
+.phone {
+    color: rgb(152, 138, 138);
+}
+
+body {
+    width: 100%;
+    background-color: rgb(34, 34, 94);
+}
+
+li {
+   margin: 15px 0;
+}
+
+.html {
+    color:orange;
+}
+
+.css {
+    color: rgb(44, 100, 255);
+    
+}
+
+.c{
+    width: 20px;
+    height: 20px;
+    display: inline;
+    
+    margin-right: 5px;
+}
+
+.english {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+.excel {
+    filter: invert(79%) sepia(27%) saturate(5675%) hue-rotate(51deg) brightness(100%) contrast(91%);
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
